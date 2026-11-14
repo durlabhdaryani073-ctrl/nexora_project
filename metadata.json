@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA Enterprise Platform",
+  "description": "Centralised multi-user digital ecosystem for individuals, organisations, service providers, and platform administrators featuring listing management, location-based discovery, workflow enquiries, analytics, and centralised administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
